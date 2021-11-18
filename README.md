@@ -20,7 +20,16 @@
     -   5.2 [실행 컨텍스트 생성 과정](https://yonghwankim-dev.tistory.com/162?category=962746)
     -   5.3 [스코프 체인](https://yonghwankim-dev.tistory.com/163?category=962746)
     -   5.4 [클로저](https://yonghwankim-dev.tistory.com/164?category=962746)
+<<<<<<< HEAD
 =======
 # javascript_study
 자바스크립트 프로젝트를 수행하며 마주치는 문제에 대한 공부
 >>>>>>> 86fca8fa3419b8fa55d0ca4860726bda4dc4a44f
+=======
+-   Chapter06\_자바스크립트 객체지향 프로그래밍
+    -   6.1 [클래스, 생성자, 메서드](https://yonghwankim-dev.tistory.com/165)
+    -   6.2 [상속](https://yonghwankim-dev.tistory.com/166)
+    -   6.3 [캡슐화](https://yonghwankim-dev.tistory.com/167)
+    -   6.4 [객체지향 프로그래밍 응용 예제](https://yonghwankim-dev.tistory.com/168)
+
+>>>>>>> 6275f947aeebeba10071173d881523c2c9799246
